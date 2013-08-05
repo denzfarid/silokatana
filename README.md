@@ -43,9 +43,9 @@ STEP BY STEP :
 
 4. make silo-benchmark 'OR' make all
 
-5. ./silo-benchmark write 100000000
+5. ./silo-benchmark write 1000000
 
-6. ./silo-benchmark read 100000000
+6. ./silo-benchmark read 1000000
 
 5. To remove obj files and storage just type 'make clean && make cleandb'
 
